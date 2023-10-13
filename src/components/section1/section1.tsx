@@ -37,7 +37,7 @@ const Section1 = () => {
             />
 
             <Image 
-                src={'/assets/intercom.png'}
+                src={'/assets/Intercom.png'}
                 alt='intercom'
                 height={38}
                 width={183}
