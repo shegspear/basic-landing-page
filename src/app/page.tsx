@@ -9,7 +9,7 @@ import Section5 from '@/components/section5/section5'
 
 export default function Home() {
   return (
-    <main className="bg-white py-6 flex flex-col items-center">
+    <main className="bg-white pt-6 flex flex-col items-center">
       <div className='max-w-[1600px]'>
         <Header/>
         <Section1 />
